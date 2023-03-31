@@ -5,7 +5,7 @@
 [Api](#api)
 
 
-## <a name='front'></a>**Key Features**
+## <summary><a name='front'></a>**Front End**</summary>
 This repository contains the code for a Streamlit-based dashboard for H&M store. This dashboard allows users to filter sales data based on customer age, news frequency, member status, sales channel, index group, and dates of sale; the data is provided from an API. It also provides several visualizations and key performance indicators (KPIs) based on the selected filters.
 
 ### Key Features
