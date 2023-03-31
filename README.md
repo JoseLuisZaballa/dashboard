@@ -1,4 +1,4 @@
-# Dashboard for H&M 
+# H&M Dashboard 
 
 ## Content
 * [Front End](#front)
