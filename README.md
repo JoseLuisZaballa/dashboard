@@ -1,8 +1,8 @@
 # Dashboard for H&M 
 
 ## Content
-[Front End](#front)
-[Api](#api)
+* [Front End](#front)
+* [Api](#api)
 
 
 ## <a name='front'></a>**Front End**
