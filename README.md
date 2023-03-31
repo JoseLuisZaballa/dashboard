@@ -3,6 +3,7 @@
 ## Content
 * [Front End](#front)
 * [Api](#api)
+* [Contrubutors](#contributors)
 
 
 ## <a name='front'></a>**Front End**
@@ -64,5 +65,5 @@ Flask-RESTX
 PyMySQL
 These can be installed via pip with the following command:
 
-## Contributors
+## <a name='contributors'></a>**Contributors**
 Jose Luis Zaballa (@joseluiszaballa)
