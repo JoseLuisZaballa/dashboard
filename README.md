@@ -15,13 +15,13 @@ This repository contains the code for a Streamlit-based dashboard for H&M store.
 Authentication: The dashboard has an authentication process to ensure only authorized users can access the data.
 Filters: Users can easily filter the data by Age Range, Customers News Frequency, Customers Member Status, Sales Channel, Index Group and Dates Sales
 Sections:
-How to use the dashboard?
-Customers
-Calendar Sales
-Department Sales
-Category Sales
-Color Sales
-Sales per Article
+* How to use the dashboard?
+* Customers
+* Calendar Sales
+* Department Sales
+* Category Sales
+* Color Sales
+* Sales per Article
 Each section contains different charts and kpis according to that topic and the selected filters.
 
 ### Installation
@@ -47,9 +47,7 @@ plotly.express
 
 ## <a name='api'></a>**API for H&M Dashboard**
 ### Key Features
-Allows you to fetch data from a MySQL database
-Uses Flask and Flask-RESTX libraries to build a RESTful API
-Returns JSON data format for the API responses and its use for the front end
+Allows you to fetch data from a MySQL database whil using Flask and Flask-RESTX libraries to build a RESTful API. It returns JSON data format for the API responses and it is used for the front end.
 
 ### Installation
 pip install Flask SQLAlchemy Flask-RESTX PyMySQL
