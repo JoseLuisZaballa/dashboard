@@ -3,7 +3,9 @@
 ## Content
 * [Front End](#front)
 * [Api](#api)
-* [Contrubutors](#contributors)
+* [Contributors](#contributors)
+
+<img src="https://github.com/JoseLuisZaballa/dashboard/image.png" title="Dashboard">
 
 
 ## <a name='front'></a>**Front End**
